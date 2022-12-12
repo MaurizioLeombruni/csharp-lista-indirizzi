@@ -26,5 +26,40 @@ namespace CSharpListaIndirizzi
             this.province = province;
             this.zip = zip;
         }
+
+        public string GetName()
+        {
+            return name;
+        }
+
+        public string GetSurname()
+        {
+            return surname;
+        }
+
+        public string GetStreet()
+        {
+            return street;
+        }
+
+        public string GetCity()
+        {
+            return city;
+        }
+
+        public string GetProvince()
+        {
+            return province;
+        }
+
+        public string GetZipCode()
+        {
+            return zip;
+        }
+
+        public void SetValidState(bool value)
+        {
+            isInvalid = value;
+        }
     }
 }
