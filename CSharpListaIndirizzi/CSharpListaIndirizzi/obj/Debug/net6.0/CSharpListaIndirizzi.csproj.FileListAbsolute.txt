@@ -1,0 +1,15 @@
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\bin\Debug\net6.0\CSharpListaIndirizzi.exe
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\bin\Debug\net6.0\CSharpListaIndirizzi.deps.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\bin\Debug\net6.0\CSharpListaIndirizzi.runtimeconfig.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\bin\Debug\net6.0\CSharpListaIndirizzi.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\bin\Debug\net6.0\CSharpListaIndirizzi.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.AssemblyInfoInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.AssemblyInfo.cs
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\refint\CSharpListaIndirizzi.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\CSharpListaIndirizzi.genruntimeconfig.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-lista-indirizzi\CSharpListaIndirizzi\CSharpListaIndirizzi\obj\Debug\net6.0\ref\CSharpListaIndirizzi.dll
